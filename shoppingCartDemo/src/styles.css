@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(156, 164, 187);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.product-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.product-img-details{
+   width: 250px;
+   height: 250px;
+   border-radius: 50%; 
+    
+}

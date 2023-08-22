@@ -1,0 +1,11 @@
+.list-group-item{
+    color:rgb(140, 140, 234);
+    text-align: center;
+    box-shadow: 5px 5px 10px #555;
+}
+.col{
+    text-align: center;
+    color: blueviolet;
+    font-size: x-large;
+    box-shadow: 5px 5px 10px #555;
+}
